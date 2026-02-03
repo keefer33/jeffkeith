@@ -7,14 +7,13 @@ import App from './App'
 import './index.css'
 
 const theme = createTheme({
-  colorScheme: 'dark',
   primaryColor: 'cyan',
 })
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <BrowserRouter>
-      <MantineProvider theme={theme}>
+      <MantineProvider theme={theme} defaultColorScheme="dark">
         <App />
       </MantineProvider>
     </BrowserRouter>
