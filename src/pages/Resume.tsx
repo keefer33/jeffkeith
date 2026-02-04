@@ -237,13 +237,7 @@ function Resume() {
               Summary
             </Title>
             <Text size="sm" style={{ lineHeight: 1.7 }}>
-              Engineering Manager and hands-on technical leader with 20+ years of experience building
-              and scaling web applications and leading high-performing teams. Strong background in
-              full‑stack development, agile delivery, and people management. Recently completed a
-              focused professional development period deepening expertise in applied AI/ML systems,
-              modern AI tooling, and engineering leadership in AI‑enabled environments. Passionate
-              about building resilient teams, improving delivery quality, and leveraging AI to
-              amplify engineering effectiveness.
+            Senior Full Stack Engineer and Engineering Manager with 20+ years of experience designing, building, and scaling production web applications while leading high-performing teams. Strong background in TypeScript/JavaScript stacks, system architecture, cloud platforms, and end-to-end feature ownership. Builder-minded technical leader who combines hands-on engineering with people leadership, architectural direction, mentoring, and cross-functional collaboration. Experienced owning complex systems from design through production while also supporting team growth and delivery excellence. Recently completed a focused professional development period deepening expertise in AI-enabled systems, modern application architecture, and production-grade integrations. Passionate about building reliable, elegant software, raising engineering standards, and leveraging AI to accelerate product development and team effectiveness.
             </Text>
           </Box>
 
@@ -266,9 +260,7 @@ function Resume() {
               May 2025 – Present
             </Text>
             <Text size="sm" mb="md" style={{ lineHeight: 1.7 }}>
-              Intentional professional development period focused on strengthening principal-level
-              engineering skills across full-stack architecture, AI integration, and production
-              system design.
+            Intentional professional development period focused on strengthening principal-level engineering skills across full-stack architecture, AI integration, and production system design. Built two prototype applications: sloot.ai, an agentic automation platform with connectivity to 2,500+ services and custom MCP servers; and genny.bot, a generative AI application for creating and manipulating images and video using modern multimodal models. GitHub repositories, architectural deep-dives, and live application walkthroughs are available upon request.
             </Text>
             <List size="sm" spacing="xs" style={{ lineHeight: 1.7 }}>
               <List.Item>
